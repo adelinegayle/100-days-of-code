@@ -22,3 +22,16 @@
 ### Day 4-5: September 5-6, 2021
 
 **Today's Progress**: I setup an account in HackerRank and I've been solving challenges related to data structures
+
+### Day 6: September 9, 2021 
+
+**Today's Progress**: Took exam in hackerrank about Java Basic and got a certification
+
+**Link** [Hackerrank: Java Basic Certificate](https://www.hackerrank.com/certificates/383554b25ddd)
+
+### Day 7: September 13, 2021 
+
+**Today's Progress**: Completed tutorials in freecodecamp for responsive design. Also, completed the tribute page challenge. Will work on more challenges to get the certification.
+
+**Thoughts** I'm struggling on CSS and responsive design. Will need to focus more on this.
+
