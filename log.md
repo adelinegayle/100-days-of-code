@@ -35,3 +35,11 @@
 
 **Thoughts** I'm struggling on CSS and responsive design. Will need to focus more on this.
 
+### Day 8: September 14, 2021 
+
+**Today's Progress**: Solved code wars kata
+
+**Link** [Valid Braces Challenge](https://github.com/adelinegayle/codewars/tree/master/validBraces)
+         [Bit Counting Challenge](https://github.com/adelinegayle/codewars/tree/master/bitCounting)
+         [Persisten Bugger Challenge](https://github.com/adelinegayle/codewars/tree/master/persistentBugger)
+
